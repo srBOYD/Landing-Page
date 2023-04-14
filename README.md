@@ -1,2 +1,2 @@
 # Landing-Page
-Odin's web page ecercise
+Odin's web page exercise
