@@ -1,0 +1,40 @@
+a{
+  color: white;
+  text-decoration: none;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+/* section one styles */
+.section1{
+  color: white;
+  background-color: #1f2937;
+}
+.s1-upper{
+  display: flex;  
+  justify-content: space-between;
+  padding: 0 250px;
+}
+.section1-links{
+  align-items: center;  
+  display: flex;
+  gap: 32px;
+}
+
+.section2{
+      
+}
+
+.section3{
+    background-color: #e5e7eb;    
+}
+
+.section4{
+}
+
+.footer{
+  background-color:  #1f2937;
+}
