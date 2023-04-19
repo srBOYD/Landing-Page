@@ -45,9 +45,18 @@ body{
   margin-top: 15px;
   
 }
-
+/* section two styles */
 .section2{
-      
+    text-align: center;
+}
+.img-cointainer{
+    display: flex;
+}
+.img-succes{
+    height: 240px;
+    width: 200px;
+    border-radius: 20px;
+
 }
 
 .section3{
