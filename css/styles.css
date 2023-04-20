@@ -19,6 +19,12 @@ body{
   justify-content: space-between;
   padding: 0 250px;
 }
+.s1-header{
+    margin: 0 0 -10px;
+}
+.intro{
+    line-height: 1.8rem;
+}
 .section1-links{
   align-items: center;  
   display: flex;
@@ -46,17 +52,30 @@ body{
   
 }
 /* section two styles */
+.s2-header{
+    font-size: 36px;
+    padding: 0 0 30px;
+}
 .section2{
+    padding: 0 0 75px;
     text-align: center;
 }
-.img-cointainer{
+.img-container{
     display: flex;
+    justify-content: center;
+    gap: 100px;
 }
 .img-succes{
+    border-radius: 20px;
     height: 240px;
     width: 200px;
-    border-radius: 20px;
+}
+.s-2-img{
+    flex: 0;
+}
 
+.illustration{
+    font-size: 1.2rem;
 }
 
 .section3{
