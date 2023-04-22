@@ -76,12 +76,13 @@ body{
 
 .illustration{
     font-size: 1.2rem;
+    color: #1f2937;
 }
 
 /* section three styles */
 .section3{
     background-color: #e5e7eb;  
-    padding: 100px 350px;  
+    padding: 75px 350px;  
 }
 
 .testimonial{
@@ -96,9 +97,19 @@ body{
   font-size: 30px;
 }
 
+/* section four styles */
 .section4{
 }
 
+/* footer styles */
 .footer{
   background-color:  #1f2937;
+  color: #f9faf8;
+  display: flex;
+  font-size: 1.3rem;
+  justify-content: center;
+  padding: 30px;
+}
+.footer-text{
+
 }
